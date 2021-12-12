@@ -2,7 +2,8 @@
 <html >
 <head> <title>Document</title>
     <link rel="stylesheet" href="keshav.css">
-    <style> .kes {
+    <style> 
+        .kes{
          background-color:white;
          color: white;
          border: 2px solid black;
@@ -10,7 +11,9 @@
          padding: 30px;
     }
   
-    
+      p {background-color:gray;}
+    h1 {background-color:black;}
+  
     </style></head>
 <body class="kes">
     <h1><Center>BUNTY CHAUHAN</Center></h1>
